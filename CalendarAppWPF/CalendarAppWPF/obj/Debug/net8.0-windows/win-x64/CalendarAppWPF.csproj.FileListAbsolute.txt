@@ -1,0 +1,10 @@
+/project/sandbox/user-workspace/CalendarAppWPF/CalendarAppWPF/obj/Debug/net8.0-windows/win-x64/CalendarAppWPF.csproj.AssemblyReference.cache
+/project/sandbox/user-workspace/CalendarAppWPF/CalendarAppWPF/obj/Debug/net8.0-windows/win-x64/Resources/Styles.baml
+/project/sandbox/user-workspace/CalendarAppWPF/CalendarAppWPF/obj/Debug/net8.0-windows/win-x64/Views/AboutView.g.cs
+/project/sandbox/user-workspace/CalendarAppWPF/CalendarAppWPF/obj/Debug/net8.0-windows/win-x64/Views/HomeView.g.cs
+/project/sandbox/user-workspace/CalendarAppWPF/CalendarAppWPF/obj/Debug/net8.0-windows/win-x64/Views/NavbarView.g.cs
+/project/sandbox/user-workspace/CalendarAppWPF/CalendarAppWPF/obj/Debug/net8.0-windows/win-x64/Views/SettingsView.g.cs
+/project/sandbox/user-workspace/CalendarAppWPF/CalendarAppWPF/obj/Debug/net8.0-windows/win-x64/Application/App.g.cs
+/project/sandbox/user-workspace/CalendarAppWPF/CalendarAppWPF/obj/Debug/net8.0-windows/win-x64/GeneratedInternalTypeHelper.g.cs
+/project/sandbox/user-workspace/CalendarAppWPF/CalendarAppWPF/obj/Debug/net8.0-windows/win-x64/CalendarAppWPF_MarkupCompile.cache
+/project/sandbox/user-workspace/CalendarAppWPF/CalendarAppWPF/obj/Debug/net8.0-windows/win-x64/CalendarAppWPF_MarkupCompile.lref
